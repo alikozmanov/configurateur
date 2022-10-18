@@ -1,0 +1,120 @@
+.cercle1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: yellow;
+}
+
+.cercle2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: orange;
+}
+
+.cercle3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: violet;
+}
+
+.cercle4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: blue;
+}
+
+.cercle5 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: rgb(128, 0, 0);
+}
+
+.cercle6 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: red;
+}
+
+.cercle7 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: green;
+}
+
+
+input {
+    margin: .4rem;
+  
+}
+
+h1 {
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+    width: 400px;
+    text-align: center;
+}
+
+.color1 {
+    display: flex;
+    justify-content: right;
+    display: flex;
+    justify-content: right;
+    align-content: right;
+    flex-direction: column;
+}
+
+
+.color2 {
+    display: flex;
+    justify-content: right;
+    display: flex;
+    justify-content: right;
+    align-content: right;
+    flex-direction: column;
+}
+
+.texte { 
+    display: flex;
+    justify-content: right;
+}
+
+
+.parent {
+    position: relative;
+    width: 630px;
+}
+.child {
+    position: absolute;
+    width: 630px;
+    height: 945px;
+    top: 0;
+    left: 500px;
+}
+.child2 {
+    z-index: 1;
+}
+.child3 {
+    z-index: 5;
+}
+
+.position-texte {
+    position: absolute;
+    top: 340px; right: 130px;
+
+}
+
+.texte {
+    display: flex;
+    justify-content: right;
+    align-content: right;
+    flex-direction: column;
+}
+
+
