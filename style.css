@@ -44,8 +44,72 @@
     width: 40px;
     height: 40px;
     border-radius: 50px;
-    background: green;
+    background: rgb(0, 211, 0);
 }
+
+
+.cercle8 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: white;
+}
+
+
+.cercle9 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: black;
+}
+
+
+.cercle10 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: blue;
+}
+
+
+.cercle11 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: rgb(128, 0, 0);
+} 
+
+
+.cercle12 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: red;
+} 
+
+
+.cercle13 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: rgb(0, 211, 0);
+} 
+
+
+.cercle14 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: yellow;
+} 
+
+
+.cercle15 {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    background: orange;
+} 
 
 
 input {
@@ -74,8 +138,6 @@ h1 {
     justify-content: right;
     flex-direction: column;
 }
-
-
 
 
 .parent {
